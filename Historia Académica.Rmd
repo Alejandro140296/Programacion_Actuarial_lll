@@ -1,0 +1,54 @@
+---
+title: "Historia Académica"
+author: "Alejandro Casimiro Figueroa"
+date: "4 de febrero de 2017"
+output: html_document
+---
+
+
+
+## Otoño 2014
+
+####Programacion Actuarial I.........08
+####Intr a la Profesion Actuarial....07
+####DHPC.............................10
+####Conceptos de Calculo.............07
+####Matematicas Basicas..............08
+####Problemas de Mat. Basicas........08
+
+## Primavera 2015
+
+####Programacion Actuarial II........05
+####Teoria del Interes I.............07
+####Microeconomia....................09
+####Calculo Diferencial..............08
+####Geometria Analitica..............09
+####Teoria de Ecuaciones.............08
+
+## Otoño 2015
+
+####Teoria del Interes II............08
+####Macroeconomia....................07
+####Formacion Humana y Social........09
+####Calculo Integral.................07
+####Algebra Lineal I.................05
+
+## Primavera 2016
+
+####Programacion Actuarial II........05
+####DHTIC............................09
+####Cal. Difer. en Var. Variables....05
+####Ecuaciones Diferenciales I.......09
+####Algebra Lineal I.................08
+####Probabilidad I...................05
+
+## Otoño 2016
+
+####Programacion Actuarial II........07
+####Sistema Financiero Mexicano......09
+####Reg. Acad. y Cient. del Esp......08
+####Cal. Difer. en Var. Variables....08
+####Intr. a las Estr. Algebraicas....07
+####Probabilidad I...................08
+
+
